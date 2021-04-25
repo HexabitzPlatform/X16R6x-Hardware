@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2021-04-18T10:23:31Z",
+        "CreationDate": "2021-04-25T19:10:24Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -17,8 +17,8 @@
         },
         "Owner": "Anas kaadan <anas.kaadan@outlook.com>",
         "Size": {
-            "X": 63.2333,
-            "Y": 39.984969
+            "X": 50.5079,
+            "Y": 39.142719
         }
     }
 }
